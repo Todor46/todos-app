@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/todos-app/static/css/main.bb54e0e8.chunk.css",
+    "main.js": "/todos-app/static/js/main.afcbdc10.chunk.js",
+    "main.js.map": "/todos-app/static/js/main.afcbdc10.chunk.js.map",
+    "runtime-main.js": "/todos-app/static/js/runtime-main.5970f856.js",
+    "runtime-main.js.map": "/todos-app/static/js/runtime-main.5970f856.js.map",
+    "static/css/2.a1d54959.chunk.css": "/todos-app/static/css/2.a1d54959.chunk.css",
+    "static/js/2.0fd99530.chunk.js": "/todos-app/static/js/2.0fd99530.chunk.js",
+    "static/js/2.0fd99530.chunk.js.map": "/todos-app/static/js/2.0fd99530.chunk.js.map",
+    "index.html": "/todos-app/index.html",
+    "precache-manifest.e6f524f48379ac536f8fd211b6585422.js": "/todos-app/precache-manifest.e6f524f48379ac536f8fd211b6585422.js",
+    "service-worker.js": "/todos-app/service-worker.js",
+    "static/css/2.a1d54959.chunk.css.map": "/todos-app/static/css/2.a1d54959.chunk.css.map",
+    "static/css/main.bb54e0e8.chunk.css.map": "/todos-app/static/css/main.bb54e0e8.chunk.css.map",
+    "static/js/2.0fd99530.chunk.js.LICENSE": "/todos-app/static/js/2.0fd99530.chunk.js.LICENSE",
+    "static/media/all.css": "/todos-app/static/media/fa-solid-900.f6121be5.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5970f856.js",
+    "static/css/2.a1d54959.chunk.css",
+    "static/js/2.0fd99530.chunk.js",
+    "static/css/main.bb54e0e8.chunk.css",
+    "static/js/main.afcbdc10.chunk.js"
+  ]
+}
